@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeaconArtifact</string>
+    <string name="image">Image</string>
+    <string name="no_nearby_artifacts">No Nearby Artifacts</string>
+    <string name="no_nearby_artifact">No nearby artifacts</string>
+</resources>
