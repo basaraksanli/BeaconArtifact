@@ -49,6 +49,6 @@ dependencies {
 
     implementation 'com.huawei.hms:nearby:5.0.2.300'
 
-    implementation 'com.huawei.hms:nearby:5.0.0.301'
+
 }
 apply plugin: 'com.huawei.agconnect'
