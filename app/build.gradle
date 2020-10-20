@@ -15,13 +15,6 @@ android {
     }
 
 
-    signingConfigs {
-        config {
-            storeFile file('E:\\beaconArtifact.jks')
-            storePassword '163501aks'
-            keyPassword '163501aks'
-            keyAlias 'key0'
-        }
     }
     buildTypes {
         debug {
